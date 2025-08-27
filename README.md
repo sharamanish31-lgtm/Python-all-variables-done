@@ -43,7 +43,7 @@ for i in range(10):
 		print(f)
 for i in range(6):
 			if i==3:
-				continue
+				continue 
 				print(i)  
 
  
